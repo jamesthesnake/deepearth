@@ -2,7 +2,7 @@
   "dataset_info": {
     "dataset_name": "central-florida-native-plants",
     "version": "0.2.0",
-    "split_created": "2025-07-13T01:19:54.820730",
+    "split_created": "2025-07-27T03:00:15.981537",
     "description": "Spatial and temporal train/test split for DeepEarth ML training"
   },
   "split_strategy": {
